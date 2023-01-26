@@ -6,4 +6,3 @@ updated on GitHub
 updated on conflict-remote
 Updated on rebase-practice
 Updated on rebase-practice for conflict
-Stash practice
